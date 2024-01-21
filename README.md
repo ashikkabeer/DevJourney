@@ -5,7 +5,7 @@ It provides a transparent view into the projects I'm currently building and the 
 ___
 ### Side Projects
 
-🌊 [Wave](https://github.com/ashikkabeer/Wave-Social-Media-App-Backend)
+🌊 [Wave](https://github.com/ashikkabeer/Wave-Social-Media-App-Backend) (ExpressJS, MongoDB, Google Cloud Storage)
 
 📝 [realtime markdown editor](https://github.com/ashikkabeer/realtime-markdown-editor)
 
