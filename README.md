@@ -4,6 +4,7 @@ This repository serves as a public log of my ongoing learning journey and projec
 It provides a transparent view into the projects I'm currently building and the new skills acquiring.
 ___
 ### Side Projects
+😎 [Personal Webiste](https://github.com/ashikkabeer/Portfolio-NextJs) (NextJS, TailwindCSS)
 
 🌊 [Wave](https://github.com/ashikkabeer/Wave-Social-Media-App-Backend) (ExpressJS, MongoDB, Google Cloud Storage)
 
