@@ -8,26 +8,26 @@ ___
 
 🌊 [Wave](https://github.com/ashikkabeer/Wave-Social-Media-App-Backend) (ExpressJS, MongoDB, Google Cloud Storage)
 
-📝 [realtime markdown editor](https://github.com/ashikkabeer/realtime-markdown-editor)
+📝 [realtime markdown editor](https://github.com/ashikkabeer/realtime-markdown-editor) (ExpressJS)
 
-📞 [Video Calling](https://github.com/ashikkabeer/Video-Streaming-Web-App)
+📞 [Video Calling](https://github.com/ashikkabeer/Video-Streaming-Web-App) (ExpressJS, WebRTC)
 
-🛒 [E-Commerce](https://github.com/ashikkabeer/shop-cart-project-nodejs)
+🛒 [E-Commerce](https://github.com/ashikkabeer/shop-cart-project-nodejs) (ExpressJS, MongoDB)
 
-🎥 [CreatorStudio](https://github.com/ashikkabeer/CreatorStudio)
+🎥 [CreatorStudio](https://github.com/ashikkabeer/CreatorStudio) (ExpressJS,TypeScript) (working on it)
 
-📋 [Task Manager](https://github.com/ashikkabeer/task-manager)
+📋 [Task Manager](https://github.com/ashikkabeer/task-manager) (ExpressJS)
 
-🤖 [Discord-Bot](https://github.com/ashikkabeer/OpenAi-Discord-Bot)
+🤖 [Discord-Bot](https://github.com/ashikkabeer/OpenAi-Discord-Bot) (ExpressJS, DiscordAPI, OpenAiAPI)
 
-📱 [Whatsapp Bot](https://github.com/ashikkabeer/WA-GPT)
+📱 [Whatsapp Bot](https://github.com/ashikkabeer/WA-GPT) (ExpressJS)
 
 ___
 
 ### Features I'm writing to understand how it works
 
 
-🔒 [JWT](https://github.com/ashikkabeer/JWT-Auth-TS-Express)
+🔒 [JWT](https://github.com/ashikkabeer/JWT-Auth-TS-Express) (Typescript, ExpressJS)
 
 ___
 ### Learning
@@ -38,6 +38,6 @@ ___
 ___
 ### Basic Apps
 
-🔢 [Counter](https://github.com/ashikkabeer/Counter-Sample)
+🔢 [Counter](https://github.com/ashikkabeer/Counter-Sample) (HTML, CSS, JS)
 
 ___
