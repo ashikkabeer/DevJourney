@@ -3,26 +3,20 @@
 This repository serves as a public log of my ongoing learning journey and project development.
 It provides a transparent view into the projects I'm currently building and the new skills acquiring.
 ___
-### Side Projects
-😎 [Personal Webiste](https://github.com/ashikkabeer/Portfolio-NextJs) (NextJS, TailwindCSS)
-
-🌊 [Wave](https://github.com/ashikkabeer/Wave-Social-Media-App-Backend) (ExpressJS, MongoDB, Google Cloud Storage)
-
-📝 [realtime markdown editor](https://github.com/ashikkabeer/realtime-markdown-editor) (ExpressJS)
-
-📞 [Video Calling](https://github.com/ashikkabeer/Video-Streaming-Web-App) (ExpressJS, WebRTC)
-
-🛒 [E-Commerce](https://github.com/ashikkabeer/shop-cart-project-nodejs) (ExpressJS, MongoDB)
-
-🎥 [CreatorStudio](https://github.com/ashikkabeer/CreatorStudio) (ExpressJS,TypeScript) (working on it)
-
-📋 [Task Manager](https://github.com/ashikkabeer/task-manager) (ExpressJS)
-
-🤖 [Discord-Bot](https://github.com/ashikkabeer/OpenAi-Discord-Bot) (ExpressJS, DiscordAPI, OpenAiAPI)
-
-📱 [Whatsapp Bot](https://github.com/ashikkabeer/WA-GPT) (ExpressJS)
-
-___
+| #   | Project                                                                      | Technologies                                       | Status                  |
+|-----|------------------------------------------------------------------------------|---------------------------------------------------|-------------------------|
+| 1   | 🌐 [Personal Webiste](https://github.com/ashikkabeer/Portfolio-NextJs)          | NextJS, TailwindCSS                                |  -                       |
+| 2   | 🌊 [Wave with SSR](https://github.com/ashikkabeer/Wave-Social-Media-App-Backend)| ExpressJS, MongoDB, Google Cloud Storage, Hbs           |  -                       |
+| 3   | 🚧 [Wave Frontend](https://github.com/ashikkabeer/wave-frontend)                | NextJS, TailwindCSS, ReactHookForm, Zod                     |  - In Progress                      |
+| 4   | 🚧 [Wave API](https://github.com/ashikkabeer/wave-nestjs-api)                   | NestJS, PostgreSQL, Prisma                          |  - In Progress          |
+| 5   | 📝 [Realtime Markdown Editor](https://github.com/ashikkabeer/realtime-markdown-editor)| ExpressJS                                      |  -                       |
+| 6   | 🎥 [Video Calling](https://github.com/ashikkabeer/Video-Streaming-Web-App)      | ExpressJS, WebRTC                                  |  -                       |
+| 7   | 🛒 [E-Commerce](https://github.com/ashikkabeer/shop-cart-project-nodejs)       | ExpressJS, MongoDB                                 |  -                       |
+| 8   | 🛠️ [CreatorStudio](https://github.com/ashikkabeer/CreatorStudio)               | ExpressJS, TypeScript                              | - In Progress             |
+| 9   | 📋 [Task Manager](https://github.com/ashikkabeer/task-manager)                  | ExpressJS                                          |  -                       |
+| 10  | 🤖 [Discord-Bot](https://github.com/ashikkabeer/OpenAi-Discord-Bot)             | ExpressJS, DiscordAPI, OpenAiAPI                  |  -                       |
+| 11  | 📱 [Whatsapp Bot](https://github.com/ashikkabeer/WA-GPT)                        | ExpressJS                                          |  -                       |
+| 12  | 📚 [Bookmarks API](https://github.com/ashikkabeer/bookmarks-api)               | NestJS, PostgreSQL, Prisma                          |  -                       |
 
 ### Features I'm writing to understand how it works
 
