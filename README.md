@@ -1,4 +1,4 @@
-# ✨What-Am-I-Doing
+# ✨DevJourney
 
 This repository serves as a public log of my ongoing learning journey and project development.
 It provides a transparent view into the projects I'm currently building and the new skills acquiring.
